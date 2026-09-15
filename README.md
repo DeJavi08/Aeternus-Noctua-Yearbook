@@ -29,7 +29,7 @@
 
 Tiga tahun di bawah naungan atap **SMAN 17 Surabaya (SMANTASS)** bukanlah perjalanan yang singkat. Di lorong-lorong kelas, lapangan upacara, riuhnya kantin, tawa saat jam kosong, hingga haru saat bel kepulangan terakhir berbunyi, semuanya terangkum dalam satu nama: **Aeternus Noctua** (Burung Hantu yang Abadi).
 
-Proyek ini dibuat untuk mengubah buku kenangan fisik setebal 128 halaman menjadi **kapsul waktu digital interaktif (HTML5 3D Flipbook)**. Dibuat agar kapan pun rindu itu datang—entah 5, 10, atau 20 tahun lagi saat kita sudah melangkah di jalan masing-masing, kita cukup membuka tautan ini untuk kembali pulang ke masa putih abu-abu.
+Proyek ini dibuat untuk mengubah buku kenangan fisik setebal 128 halaman menjadi **kapsul waktu digital interaktif (HTML5 3D Flipbook)**. Dibuat agar kapan pun rindu itu datang. Entah 5, 10, atau 20 tahun lagi saat kita sudah melangkah di jalan masing-masing, kita cukup membuka tautan ini untuk kembali pulang ke masa putih abu-abu.
 
 ---
 
